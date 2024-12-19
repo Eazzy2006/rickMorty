@@ -3,6 +3,7 @@ This is a React app that displays a list of characters from the Rick and Morty s
 The app allows users to filter, sort, and paginate through the characters, and includes a language switcher to toggle between English and German.
 
 Features:
+
 Character List: Displays name, status, species, gender, and origin.
 Filters: Filter characters by status and species.
 Sorting: Sort characters by name or origin.
