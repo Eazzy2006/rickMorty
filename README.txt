@@ -26,3 +26,5 @@ src/
 API Used
 The app fetches data from the Rick and Morty GraphQL API:
 
+You can find the website in this URL: https://ricknmortychars.netlify.app/
+
